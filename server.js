@@ -30,10 +30,12 @@ connectCloudinary();
 /* 🔹 ALLOWED ORIGINS (LIVE + LOCAL) */
 /* -------------------------------------------------------------------------- */
 const allowedOrigins = [
-  "https://harifashion.in",
-  "https://www.harifashion.in",
+  "https://viveratex.com",
+  "https://www.viveratex.com",
   "http://localhost:5173",
   "http://localhost:5174",
+  "http://localhost:5174",
+
 ];
 
 /* -------------------------------------------------------------------------- */
