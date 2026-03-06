@@ -32,7 +32,7 @@ connectCloudinary();
 const allowedOrigins = [
   "https://viveratex.com",
   "https://www.viveratex.com",
-  "https://deepskyblue-leopard-581176.hostingersite.com/",
+  "https://deepskyblue-leopard-581176.hostingersite.com",
   "http://localhost:5173",
   "http://localhost:5174",
   "http://localhost:5174",
